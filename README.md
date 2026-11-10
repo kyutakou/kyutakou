@@ -2,7 +2,7 @@
 
 An adventurer exploring the world of code, one project at a time.
 
-""Profile Views" (https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=e6d3a3&style=flat&label=travelers)" (https://github.com/YOUR_USERNAME)
+Profile Views (https://komarev.com/ghpvc/?username=kyutakouE&color=e6d3a3&style=flat&label=travelers)" (https://github.com/kyutakou)
 
 </div>---
 
