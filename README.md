@@ -29,11 +29,6 @@ A few things I've been working on:
 
 ✧ github journey
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kyutakou&show_icons=true&theme=default&title_color=b69b61&icon_color=d8bd7c&text_color=777777&bg_color=fffdf7&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyutakou&layout=compact&theme=default&title_color=b69b61&text_color=777777&bg_color=fffdf7&hide_border=true" width="48%" />
-</p>---
-
 <div align="center">“Every journey has its beginning.”
 
 ✧ ˚ · . traveler of the digital world . · ˚ ✧
